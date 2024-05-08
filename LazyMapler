@@ -5,9 +5,9 @@
 SetBatchLines, -1
 dir:=A_WorkingDir
 FileCreateDir, temp
-FileInstall, %dir%\temp\lol.ahk, %dir%\temp\lol.ahk, 1
-FileInstall, %dir%\temp\Ahk2Exe.exe, %dir%\temp\Ahk2Exe.exe, 1
-FileInstall, %dir%\temp\icon.ico, %dir%\temp\icon.ico, 1
+FileInstall, temp\lol.ahk, %dir%\temp\lol.ahk, 1
+FileInstall, temp\Ahk2Exe.exe, %dir%\temp\Ahk2Exe.exe, 1
+FileInstall, temp\icon.ico, %dir%\temp\icon.ico, 1
 
 
 ScriptGuard1()
