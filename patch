@@ -1,5 +1,9 @@
-- Dungeon selection fix
-- Dipq level check added
-- dojo claim check added
-- tang yoon no mesos check when selected
-  as main added
+Version 1.0.3
+Other Improvements
+1. DIPQ Level Check has been added.
+2. Dojo Claim Check has been added.
+3. Tang Yoon Check when character has not enough mesos added.
+
+Bug Fixes
+1. Dungeon selection fix where players were unable shuffle dungeon order properly.
+2. Patcher will replace current app accordingly (previously it was a fixed name)
