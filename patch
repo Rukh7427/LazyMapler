@@ -1,9 +1,11 @@
-Version 1.0.3
+
+Version 1.1.0
 Other Improvements
-1. DIPQ Level Check has been added.
-2. Dojo Claim Check has been added.
-3. Tang Yoon Check when character has not enough mesos added.
+1. Improvements made to Character box validation.
+2. Characters renamed to their full job name i.e BS -> Bishop.
+3. Added ability to customize emulator name so that it works for multi accounts
+4. Added a check for full backpack and revive when doing daily quest.
 
 Bug Fixes
-1. Dungeon selection fix where players were unable shuffle dungeon order properly.
-2. Patcher will replace current app accordingly (previously it was a fixed name)
+1. Fixed a bug where bot will get stuck if daily quest has already been manually started
+2. Fixed a bug where DIPQ would be skipped on characters below Lv170
