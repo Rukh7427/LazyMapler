@@ -1,11 +1,9 @@
 
-Version 1.1.0
+Version 1.1.2
 Other Improvements
-1. Improvements made to Character box validation.
-2. Characters renamed to their full job name i.e BS -> Bishop.
-3. Added ability to customize emulator name so that it works for multi accounts
-4. Added a check for full backpack and revive when doing daily quest.
+1. Improvements made to Like function (blocks user input and tabs back to previous active window)
+
 
 Bug Fixes
-1. Fixed a bug where bot will get stuck if daily quest has already been manually started
-2. Fixed a bug where DIPQ would be skipped on characters below Lv170
+1. Additional Text for CEDD
+2. Mulitple bot instances should work even if emulator windows are layered
