@@ -1,8 +1,7 @@
 
-Version 1.1.3
+Version 1.1.4
 Other Improvements
-1. Improvements made to Like function (blocks user input and tabs back to previous active window)
+1. Added time out counter to restart daily sequence when a certain amount of time has passed.
 
 Bug Fixes
-1. DIPQ and EOS level check bug fix (Please ensure they are below the 10th slot)
-2. Increased search tolerance
+1. Fix bug where CDD check was not done properly.
