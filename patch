@@ -1,7 +1,8 @@
 
-Version 1.1.4
+Version 1.1.6
 Other Improvements
-1. Added time out counter to restart daily sequence when a certain amount of time has passed.
+1. Added time out check for character swap and select sequence.
+2. Added Attendance and popup checks for daily quest.
 
 Bug Fixes
-1. Fix bug where CDD check was not done properly.
+1. Updated Image for blaster character.
