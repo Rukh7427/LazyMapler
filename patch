@@ -1,9 +1,11 @@
 
-Version 1.1.13
+Version 1.1.14
 Other Improvements
 1. General UI improvements
 2. Added Tangyoon fire control and ingredient choice
+3. Added check to ensure character is inside Tang Yoon Dungeon before proceeding
 
 Bug Fixes
 1. General Bug Fixes
 2. Fixed error where exit is not detected inside Tang Yoon
+3. Fixed error in menu causing icons to be undetectable in different positions
