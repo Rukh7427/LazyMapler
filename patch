@@ -1,12 +1,7 @@
 
-Version 1.1.15
+Version 1.1.16
 Other Improvements
-1. General UI improvements
-2. Added Tangyoon fire control and ingredient choice
-3. Added check to ensure character is inside Tang Yoon Dungeon before proceeding
+1. Added a check for claiming dojo  Weekly points on Monday (to be tested fully on monday)
 
 Bug Fixes
-1. General Bug Fixes
-2. Fixed error where exit is not detected inside Tang Yoon
-3. Fixed error in menu causing icons to be undetectable in different positions
-4. Fixed error where Alt characters got stuck after Tang Yoon
+1. Updated Hoyoung Images for character selection
